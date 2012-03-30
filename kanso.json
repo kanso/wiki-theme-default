@@ -16,7 +16,6 @@
         "attachments": null,
         "handlebars": null,
         "handlebars-helpers": "0.0.2",
-        "less-precompiler": null,
-        "kanso-topbar": null
+        "less-precompiler": null
     }
 }
